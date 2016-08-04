@@ -7,3 +7,12 @@ myfunc <- function(x){
 }
 
 plot(x,myfunc(x),type = 'l')
+
+
+
+
+myfunc2 <- function(x){
+  
+  return(x^2)
+  
+}
